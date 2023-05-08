@@ -4,5 +4,5 @@
 
 /.git
 /.vs
-/bin
+/obj
 /bin
